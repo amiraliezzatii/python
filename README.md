@@ -1,0 +1,2 @@
+# python
+Exercises while learning
