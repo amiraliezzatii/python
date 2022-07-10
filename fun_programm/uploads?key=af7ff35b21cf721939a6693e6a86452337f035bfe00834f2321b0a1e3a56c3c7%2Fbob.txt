@@ -1,0 +1,24 @@
+Bobs favourite numbers
+
+Bob likes two numbers 1856 (as his college was founded as the Civil Engineering College on 24 November 1856) and 2014 (as his college was renamed as Indian Institute of Engineering Science and Technology, Shibpur by the Govt. of India in March 2014).
+
+A number N is Bob's favourite number if N is equal to the sum of a certain number of 1856 and sum of a certain number of 2014.
+
+Task: Print whether a number is Bob's favourite number or not.
+
+Input: 
+First line contains a single integer number N.
+
+Output:
+Print “Yes” if Favourite if N is Bob’s favourite number, else print “No”.
+
+Constraints: 1 <= N <= 10^9
+
+Sample input:
+5726
+
+Sample output:
+Yes
+
+Sample explanation:
+5726 can be represented as the sum of 1856 + 1856 + 2014.
